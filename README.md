@@ -11,7 +11,7 @@ e estou começando a aprender JavaScript e React.Esse é so o começo :rocket:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julioczrn&show_icons=true&theme=transparent)
 
 
 
